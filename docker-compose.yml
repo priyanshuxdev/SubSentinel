@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5600:5600"
+    env_file:
+      - .env.development.local 
