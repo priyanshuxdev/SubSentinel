@@ -1,4 +1,4 @@
-# Subscriptions Management and Tracking API
+# SubSentinel - Subscription Management and Tracking API
 
 A RESTful API built with Node.js and Express for tracking subscriptions. This application helps users manage their various subscriptions, send renewal reminders, and track payment status.
 
